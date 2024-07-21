@@ -1,0 +1,36 @@
+Emotion Recognition by Textual Tweets Classification Using Voting Classifier LR and SGD
+
+IEEE Access,Volume:9,Issue Date:Jan-2021
+
+Emotion_Recognition
+
+emotion_recognition
+
+Sentiment analysis, text classication, machine learning, opinion mining, emotion recognition,
+articial intelligence.
+
+
+
+Tweet_Message
+
+Tweet_Id
+Tweet_Label
+Tweet_Message
+
+
+Tweet_Message_Emotion
+
+Tweet_Id
+Tweet_Label
+Tweet_Message
+Emotion_Prediction
+
+
+
+
+Tweet_Message,Tweet_Message_Emotion,detection_ratio,detection_accuracy
+
+
+0 -- Happy
+
+1 -- Unhappy 
